@@ -79,7 +79,7 @@ The user may also list all talkers using the `GET` HTTP method;
 
 <br />
 
-* **/talker/search?q=** - Using the `POST` HTTP method, allows the user to search for a talker by the provided `q` (name) query;
+* **/talker/search?q=** - Using the `GET` HTTP method, allows the user to search for a talker by the provided `q` (name) query;
 
 <br />
 
