@@ -19,6 +19,7 @@ Here you can find information about the project's development, such as which tec
 
 This back-end application was developed during my time at [Trybe](https://www.betrybe.com/) to practice the lessons learned on Node.js and Express.js.
 This API is a talker management system, where you can create, view, delete and update a list of talkers.
+
 The goal of this project was to get familiar with the Node.js built-in modules, such as _http_, _fs_ and _path_, and learn about the different HTTP methods.
 A JSON file was used as the database; the CRUD operations were done using the **fs** `writeFile` and `readFile` methods.
 
