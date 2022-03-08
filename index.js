@@ -19,7 +19,7 @@ app.listen(PORT, () => {
   Agradeço o repositório do Leonardo Santos [lcds90] pela inspiração
   na organização dos diretórios e na re-exportação dos módulos!
 
-  https://github.com/tryber/sd-014-c-project-talker-manager/pull/17/
+  https://github.com/lcds90
 */
 
 // Express Middlewares
